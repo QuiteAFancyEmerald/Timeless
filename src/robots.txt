@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://holyunblocker.org/sitemap.xml
+Sitemap: https://quiteafancyemerald.com/sitemap.xml
